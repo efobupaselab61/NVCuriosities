@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "category-nature-oddities.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

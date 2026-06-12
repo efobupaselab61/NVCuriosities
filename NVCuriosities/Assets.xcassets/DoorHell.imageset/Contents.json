@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "door-hell.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
